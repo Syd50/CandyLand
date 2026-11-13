@@ -1,0 +1,21 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "915097317",
+    "Type": "User",
+    "GUID": "{C38242CF-2B86-4BE5-8688-3F4290291A2B}",
+    "Language": "SFX",
+    "Hash": "{4BFA51B1-7A9C-4851-7D61-95B828DE0BD1}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Nats",
+    "ShortName": "Nats",
+    "Path": "Nats.bnk"
+   }
+  ],
+  "FileHash": "{AFF5C6D6-F0B6-3346-E49D-15479DAB124D}"
+ }
+}
