@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Nats_Test_Events" ID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Footsteps_boy" ID="{541A2DF2-D502-499E-8121-0A8094AFA5A9}">
+					<ChildrenList>
+						<Action Name="" ID="{506503CB-D640-4C62-9A70-E3318C7735D1}" ShortID="609409023">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Boy_footsteps" ID="{4F066E06-F597-4EE9-9C50-328E3A361E69}" WorkUnitID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ToyThrow" ID="{BE92A82A-183C-4917-A342-E221794FDD89}">
+					<ChildrenList>
+						<Action Name="" ID="{7AB0AFB0-FA99-4A3E-BC6E-8BD6621D5F55}" ShortID="1017483312">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Toy_throw_squeak" ID="{D0D31B23-FFBF-4C09-8BD6-FA51D391C329}" WorkUnitID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Atmos" ID="{75D95B2D-AE43-4FD3-ACCC-76B091512DBA}">
+					<ChildrenList>
+						<Action Name="" ID="{CCEE416E-510E-48BF-BD3A-7371B2415FE0}" ShortID="63913324">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Atmos" ID="{C6CD9140-428B-4905-8A60-B1BB3CD4A8B6}" WorkUnitID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Gun_pick_up" ID="{F7CC3D08-F09C-45D1-BF2F-CA9BE841944A}">
+					<ChildrenList>
+						<Action Name="" ID="{15B1E8E6-A322-46BB-AB92-6D4EE53FE7D3}" ShortID="34100222">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pickup_gun" ID="{D645F524-0907-49B9-A384-0FA9455B1D61}" WorkUnitID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bump" ID="{BD0BFF80-C82F-4FA4-9C19-E29AB0A557E0}">
+					<ChildrenList>
+						<Action Name="" ID="{1F89B93A-537D-4658-B83E-69923E0AD18C}" ShortID="794879763">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shelf_bumb_v1" ID="{AA62DD82-09E7-48C5-97E4-5C2BB9AFB1B3}" WorkUnitID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

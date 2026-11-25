@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Nats_test" ID="{9E1F6C88-7A9E-4A16-9844-725F28EB3EE7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Boy_footsteps" ID="{4F066E06-F597-4EE9-9C50-328E3A361E69}" ShortID="138138435">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E8EA884F-688A-47C9-BB99-2871BA4F3E1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Boy_Walk_1" ID="{931C64F1-73D6-4B8F-B502-64EE2C106089}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="280618214"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_2" ID="{69DF18D7-74AD-467A-AAA3-99AC68EEEB67}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="628706085"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_3" ID="{580FB6D8-8BDC-4281-8E8E-F4FFC434973C}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_3.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="167181209"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_4" ID="{DB2FE61F-B791-475D-BA32-0BEA77670F86}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_4.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1067827675"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_5" ID="{9CC733F5-61F4-4FC0-8EFB-43F6BFC5B491}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_5.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1048329768"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_6" ID="{63133921-4301-4950-8456-943437BDE97E}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_6.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="615367774"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_7" ID="{28C7F8C7-81DF-42D0-A4E2-512820D3D34D}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_7.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="317843855"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_8" ID="{DA8AD435-5196-4AD9-A538-50BBEA17CDC7}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_8.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="562401555"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_9" ID="{2F3FB941-16F0-4886-9211-6E49C90BD06D}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_9.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="65675412"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_10" ID="{47F5B2C7-7250-4BCF-B46E-91808B41F615}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_10.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="951206583"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_11" ID="{57FD8A11-97B2-4BF1-A53F-E752DA59A528}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_11.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="888901291"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_12" ID="{73C0BAEF-A6CE-4B49-84B7-DFF64E2F0944}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_12.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="225724428"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_13" ID="{863FE833-0BC6-4560-BC27-A54700EAA55E}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_13.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="272400641"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_14" ID="{81E2A745-7571-4CA9-B3C9-FEF03029EF45}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_14.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="467591164"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_15" ID="{A3508F02-1B9B-41DB-AE02-37A7427E2DFC}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_15.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="389306093"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_16" ID="{7416AD92-A74D-434A-B416-8F542896851E}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_16.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="871609395"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_17" ID="{7B470A64-81AE-4D2E-BD4D-74BD94D5BB3D}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_17.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="940042396"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_18" ID="{DC2D4BA3-C1D9-4B82-A88B-8D8FB569ABE3}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_18.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="867038946"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_19" ID="{16975D8E-8D04-4926-BEE0-1C4C3A760BAD}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_19.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="70792668"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_20" ID="{722E575B-091F-4C98-A9C6-20FD62931501}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_20.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="898315491"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_21" ID="{70E9B0DA-54FD-4C8C-B9FD-45796F68B6F4}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_21.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="371836789"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_22" ID="{99FD545C-FC4A-4915-A883-98AB04780FAC}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_22.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="654200481"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_23" ID="{F96863DA-7C09-4019-95E1-FFE9F7367735}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_23.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="659024356"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_24" ID="{A1F47355-3B7C-4329-9D37-1D45A0CF1C9D}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_24.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="664893986"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_25" ID="{7F1661F3-A084-497E-9562-9BED3B3EA2F1}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_25.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="512114815"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_26" ID="{811DFC74-022C-42F2-8E34-53067B0E69EA}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_26.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1015654717"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_27" ID="{D89CB7C9-5675-4F2B-9D86-140029126918}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_27.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="423151134"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_28" ID="{247045F5-956D-48A2-910E-60F8C341164C}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_28.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="308528242"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_29" ID="{D8511363-2060-43E7-91FE-370E4187CFC5}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_29.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="640142402"/>
+							</MediaIDList>
+						</AudioFileSource>
+						<AudioFileSource Name="Boy_Walk_30" ID="{F4A0F60C-542F-460A-8669-76F854B1775F}">
+							<Language>SFX</Language>
+							<AudioFile>Boy_Walk_30.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="378901704"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Boy_Walk_30" ID="{F4A0F60C-542F-460A-8669-76F854B1775F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Atmos" ID="{C6CD9140-428B-4905-8A60-B1BB3CD4A8B6}" ShortID="322959217">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E8EA884F-688A-47C9-BB99-2871BA4F3E1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="atmos" ID="{242C4A8B-5759-4077-A1C9-ECBEC9E9C31E}">
+							<Language>SFX</Language>
+							<AudioFile>atmos.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1039475264"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="atmos" ID="{242C4A8B-5759-4077-A1C9-ECBEC9E9C31E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Shelf_bumb_v1" ID="{AA62DD82-09E7-48C5-97E4-5C2BB9AFB1B3}" ShortID="362122373">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E8EA884F-688A-47C9-BB99-2871BA4F3E1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="shelf_bump_1" ID="{D453A158-CE84-4E03-A004-29507C2F723E}">
+							<Language>SFX</Language>
+							<AudioFile>shelf_bump_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="922085900"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="shelf_bump_1" ID="{D453A158-CE84-4E03-A004-29507C2F723E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Pickup_gun" ID="{D645F524-0907-49B9-A384-0FA9455B1D61}" ShortID="882093686">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E8EA884F-688A-47C9-BB99-2871BA4F3E1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="pickup_gun" ID="{C4A527D9-0A47-4820-9172-69A44B63BC81}">
+							<Language>SFX</Language>
+							<AudioFile>pickup_gun.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="982391602"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="pickup_gun" ID="{C4A527D9-0A47-4820-9172-69A44B63BC81}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Toy_throw_squeak" ID="{D0D31B23-FFBF-4C09-8BD6-FA51D391C329}" ShortID="803814005">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E8EA884F-688A-47C9-BB99-2871BA4F3E1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Toy_Throw_1" ID="{27BA5F37-EBFA-4984-B58F-67CF00FA82C7}">
+							<Language>SFX</Language>
+							<AudioFile>Toy_Throw_1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="712940616"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Toy_Throw_1" ID="{27BA5F37-EBFA-4984-B58F-67CF00FA82C7}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

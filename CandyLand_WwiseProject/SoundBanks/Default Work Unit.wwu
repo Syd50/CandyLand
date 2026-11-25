@@ -3,8 +3,14 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{CF604ED1-C7DF-4A51-898F-76483E5E9368}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Nats" ID="{C38242CF-2B86-4BE5-8688-3F4290291A2B}">
-					<ObjectInclusionList/>
+				<SoundBank Name="Nats_Soundbank" ID="{C38242CF-2B86-4BE5-8688-3F4290291A2B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Gun_pick_up" ID="{F7CC3D08-F09C-45D1-BF2F-CA9BE841944A}" WorkUnitID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ToyThrow" ID="{BE92A82A-183C-4917-A342-E221794FDD89}" WorkUnitID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps_boy" ID="{541A2DF2-D502-499E-8121-0A8094AFA5A9}" WorkUnitID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Bump" ID="{BD0BFF80-C82F-4FA4-9C19-E29AB0A557E0}" WorkUnitID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Atmos" ID="{75D95B2D-AE43-4FD3-ACCC-76B091512DBA}" WorkUnitID="{85823FE7-5F5B-4D19-8175-73BAE7DDBC34}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>

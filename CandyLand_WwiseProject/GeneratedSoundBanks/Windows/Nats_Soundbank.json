@@ -1,0 +1,135 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4178584239",
+    "Type": "User",
+    "GUID": "{C38242CF-2B86-4BE5-8688-3F4290291A2B}",
+    "Language": "SFX",
+    "Hash": "{DF69B22C-2C16-CD19-3526-252023FDC25D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Nats_Soundbank",
+    "ShortName": "Nats_Soundbank",
+    "Path": "Nats_Soundbank.bnk",
+    "Media": [
+     {
+      "Id": "378901704",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Boy_Walk_30.wav",
+      "CachePath": "FE/{FEF86515-81D8-7DD5-8454-E691DCE94BC1}.wem"
+     },
+     {
+      "Id": "712940616",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Toy_Throw_1.wav",
+      "CachePath": "ED/{EDB8B9D0-1A72-3120-5F19-2436642B6F12}.wem"
+     },
+     {
+      "Id": "922085900",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "shelf_bump_1.wav",
+      "CachePath": "01/{0116CE81-84E7-C621-C722-CBF010B64FFE}.wem"
+     },
+     {
+      "Id": "982391602",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "pickup_gun.wav",
+      "CachePath": "70/{70838521-99EE-448E-1E1A-0A064388EBA7}.wem"
+     },
+     {
+      "Id": "1039475264",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "atmos.wav",
+      "CachePath": "B0/{B00785CA-A621-2A99-41A3-30D368C18EDD}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3034623661",
+      "Name": "Atmos",
+      "ObjectPath": "\\Events\\Nats_Test_Events\\Atmos",
+      "GUID": "{75D95B2D-AE43-4FD3-ACCC-76B091512DBA}",
+      "DurationType": "OneShot",
+      "DurationMin": "29.92",
+      "DurationMax": "29.92",
+      "MediaRefs": [
+       {
+        "Id": "1039475264"
+       }
+      ]
+     },
+     {
+      "Id": "1796733489",
+      "Name": "Bump",
+      "ObjectPath": "\\Events\\Nats_Test_Events\\Bump",
+      "GUID": "{BD0BFF80-C82F-4FA4-9C19-E29AB0A557E0}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.9635832",
+      "DurationMax": "2.9635832",
+      "MediaRefs": [
+       {
+        "Id": "922085900"
+       }
+      ]
+     },
+     {
+      "Id": "2029205721",
+      "Name": "Footsteps_boy",
+      "ObjectPath": "\\Events\\Nats_Test_Events\\Footsteps_boy",
+      "GUID": "{541A2DF2-D502-499E-8121-0A8094AFA5A9}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.30416667",
+      "DurationMax": "0.30416667",
+      "MediaRefs": [
+       {
+        "Id": "378901704"
+       }
+      ]
+     },
+     {
+      "Id": "2290376353",
+      "Name": "Gun_pick_up",
+      "ObjectPath": "\\Events\\Nats_Test_Events\\Gun_pick_up",
+      "GUID": "{F7CC3D08-F09C-45D1-BF2F-CA9BE841944A}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.9290209",
+      "DurationMax": "1.9290209",
+      "MediaRefs": [
+       {
+        "Id": "982391602"
+       }
+      ]
+     },
+     {
+      "Id": "1612733969",
+      "Name": "ToyThrow",
+      "ObjectPath": "\\Events\\Nats_Test_Events\\ToyThrow",
+      "GUID": "{BE92A82A-183C-4917-A342-E221794FDD89}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.92",
+      "DurationMax": "0.92",
+      "MediaRefs": [
+       {
+        "Id": "712940616"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{998DA066-1309-43EF-E0FC-2DDFAAF37B0C}"
+ }
+}
