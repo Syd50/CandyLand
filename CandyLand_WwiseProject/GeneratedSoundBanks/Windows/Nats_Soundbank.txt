@@ -10,5 +10,5 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	712940616	Toy_throw_squeak	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\ED\{EDB8B9D0-1A72-3120-5F19-2436642B6F12}.wem		\Actor-Mixer Hierarchy\Nats_test\Toy_throw_squeak		176736
 	922085900	Shelf_bumb_v1	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\01\{0116CE81-84E7-C621-C722-CBF010B64FFE}.wem		\Actor-Mixer Hierarchy\Nats_test\Shelf_bumb_v1		569104
 	982391602	Pickup_gun	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\70\{70838521-99EE-448E-1E1A-0A064388EBA7}.wem		\Actor-Mixer Hierarchy\Nats_test\Pickup_gun		370468
-	1039475264	Atmos	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\B0\{B00785CA-A621-2A99-41A3-30D368C18EDD}.wem		\Actor-Mixer Hierarchy\Nats_test\Atmos		5744736
+	1039475264	Atmos	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\61\{61BF4A6A-AAFE-1338-D2F2-D61CD1978058}.wem		\Actor-Mixer Hierarchy\Nats_test\Atmos		5744736
 

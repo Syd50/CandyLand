@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{C38242CF-2B86-4BE5-8688-3F4290291A2B}",
     "Language": "SFX",
-    "Hash": "{DF69B22C-2C16-CD19-3526-252023FDC25D}",
+    "Hash": "{01EDA711-209F-1FEF-AB10-F2CAAACC6057}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Nats_Soundbank",
     "ShortName": "Nats_Soundbank",
     "Path": "Nats_Soundbank.bnk",
@@ -53,7 +53,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "atmos.wav",
-      "CachePath": "B0/{B00785CA-A621-2A99-41A3-30D368C18EDD}.wem"
+      "CachePath": "61/{61BF4A6A-AAFE-1338-D2F2-D61CD1978058}.wem"
      }
     ],
     "Events": [
@@ -62,9 +62,7 @@
       "Name": "Atmos",
       "ObjectPath": "\\Events\\Nats_Test_Events\\Atmos",
       "GUID": "{75D95B2D-AE43-4FD3-ACCC-76B091512DBA}",
-      "DurationType": "OneShot",
-      "DurationMin": "29.92",
-      "DurationMax": "29.92",
+      "DurationType": "Infinite",
       "MediaRefs": [
        {
         "Id": "1039475264"
@@ -130,6 +128,6 @@
     ]
    }
   ],
-  "FileHash": "{03CB9266-4BB0-2433-E763-7E3E198222E1}"
+  "FileHash": "{946B37CB-D228-4127-D9AC-E00277649CEC}"
  }
 }
