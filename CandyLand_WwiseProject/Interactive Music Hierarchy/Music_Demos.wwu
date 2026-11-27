@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{844A62C9-B487-465B-8E7C-E239A73DF30D}" SchemaVersion="123">
+	<InteractiveMusic>
+		<WorkUnit Name="Music_Demos" ID="{844A62C9-B487-465B-8E7C-E239A73DF30D}" PersistMode="Standalone">
+			<ChildrenList>
+				<MusicSegment Name="Candyland_InGame_V3" ID="{EDB7EEC8-038C-4557-990D-F4840E0643AE}" ShortID="116748144">
+					<PropertyList>
+						<Property Name="EndPosition" Type="Real64" Value="104140.083333333"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E8EA884F-688A-47C9-BB99-2871BA4F3E1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicTrack Name="Candyland_InGame_V3" ID="{14E2592E-A2AB-4C60-AC9D-7E876DE1AD35}" ShortID="221045769">
+							<ReferenceList>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C24026CE-77DA-4C2F-B7AD-A89596B6C73B}"/>
+								</Reference>
+								<Reference Name="TransitionRoot">
+									<Custom>
+										<MusicTransition Name="Root" ID="{3488F812-61F3-414A-ABE0-1D73D3654300}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Candyland_InGame_V3" ID="{8D1F9CC2-341D-44BB-9197-AA3CD92B8916}">
+									<Language>SFX</Language>
+									<AudioFile>Candyland_InGame_V3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="507583009"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists>
+								<ObjectList Name="Sequences">
+									<Reference>
+										<Local>
+											<MusicTrackSequence Name="" ID="{DB7EDE2A-E8E3-4C72-BDD0-977DE89B844D}">
+												<ObjectLists>
+													<ObjectList Name="Clips">
+														<Reference>
+															<Local>
+																<MusicClip Name="Candyland_InGame_V3" ID="{B7DE131D-7D84-4DC4-90AF-3D379D4FDE53}">
+																	<PropertyList>
+																		<Property Name="EndTrimOffset" Type="Real64" Value="104140.083333333"/>
+																		<Property Name="FadeInMode" Type="int16" Value="0"/>
+																		<Property Name="FadeOutMode" Type="int16" Value="0"/>
+																	</PropertyList>
+																	<AudioSourceRef Name="Candyland_InGame_V3" ID="{8D1F9CC2-341D-44BB-9197-AA3CD92B8916}"/>
+																</MusicClip>
+															</Local>
+														</Reference>
+													</ObjectList>
+												</ObjectLists>
+											</MusicTrackSequence>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</MusicTrack>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="Cues">
+							<Reference>
+								<Local>
+									<MusicCue Name="Entry Cue" ID="{31E67E1F-0388-4298-B9E3-0CD169E71FF0}"/>
+								</Local>
+							</Reference>
+							<Reference>
+								<Local>
+									<MusicCue Name="Exit Cue" ID="{1C82F999-587B-455B-846F-DE2FB346E974}">
+										<PropertyList>
+											<Property Name="CueType" Type="int16" Value="1"/>
+											<Property Name="TimeMs" Type="Real64" Value="1000"/>
+										</PropertyList>
+									</MusicCue>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+				</MusicSegment>
+			</ChildrenList>
+		</WorkUnit>
+	</InteractiveMusic>
+</WwiseDocument>
