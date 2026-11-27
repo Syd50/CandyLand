@@ -6,9 +6,9 @@ Event	ID	Name			Wwise Object Path	Notes
 	3034623661	Atmos			\Nats_Test_Events\Atmos	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	378901704	Boy_footsteps	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\FE\{FEF86515-81D8-7DD5-8454-E691DCE94BC1}.wem		\Actor-Mixer Hierarchy\Nats_test\Boy_footsteps		58496
-	712940616	Toy_throw_squeak	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\ED\{EDB8B9D0-1A72-3120-5F19-2436642B6F12}.wem		\Actor-Mixer Hierarchy\Nats_test\Toy_throw_squeak		176736
-	922085900	Shelf_bumb_v1	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\01\{0116CE81-84E7-C621-C722-CBF010B64FFE}.wem		\Actor-Mixer Hierarchy\Nats_test\Shelf_bumb_v1		569104
-	982391602	Pickup_gun	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\70\{70838521-99EE-448E-1E1A-0A064388EBA7}.wem		\Actor-Mixer Hierarchy\Nats_test\Pickup_gun		370468
-	1039475264	Atmos	C:\Users\natalia.jarosz\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\61\{61BF4A6A-AAFE-1338-D2F2-D61CD1978058}.wem		\Actor-Mixer Hierarchy\Nats_test\Atmos		5744736
+	378901704	Boy_footsteps	C:\Users\natal\OneDrive\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\FE\{FEF86515-81D8-7DD5-8454-E691DCE94BC1}.wem		\Actor-Mixer Hierarchy\Nats_test\Boy_footsteps		58496
+	712940616	Toy_throw_squeak	C:\Users\natal\OneDrive\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\ED\{EDB8B9D0-1A72-3120-5F19-2436642B6F12}.wem		\Actor-Mixer Hierarchy\Nats_test\Toy_throw_squeak		176736
+	922085900	Shelf_bumb_v1	C:\Users\natal\OneDrive\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\01\{0116CE81-84E7-C621-C722-CBF010B64FFE}.wem		\Actor-Mixer Hierarchy\Nats_test\Shelf_bumb_v1		569104
+	982391602	Pickup_gun	C:\Users\natal\OneDrive\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\70\{70838521-99EE-448E-1E1A-0A064388EBA7}.wem		\Actor-Mixer Hierarchy\Nats_test\Pickup_gun		370468
+	1039475264	Atmos	C:\Users\natal\OneDrive\Documents\GitHub\CandyLand\CandyLand_WwiseProject\.cache\61\{61BF4A6A-AAFE-1338-D2F2-D61CD1978058}.wem		\Actor-Mixer Hierarchy\Nats_test\Atmos		5744736
 
